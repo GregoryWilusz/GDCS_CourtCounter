@@ -6,4 +6,5 @@
     <string name="btn_3pts">+3 points</string>
     <string name="btn_2pts">+2 points</string>
     <string name="btn_1pts">Free throw</string>
+    <string name="btn_reset">Reset</string>
 </resources>
