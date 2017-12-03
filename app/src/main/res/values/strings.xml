@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Team A</string>
-    <string name="team_name">Team A</string>
+    <string name="teama_name">Team A</string>
+    <string name="teamb_name">Team B</string>
     <string name="team_score">0</string>
     <string name="btn_3pts">+3 points</string>
     <string name="btn_2pts">+2 points</string>
